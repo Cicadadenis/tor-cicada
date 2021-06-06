@@ -8,7 +8,7 @@ DNS-запросы также перенаправляются через tor, �
 
 ## Сборка и установка из исходного кода
 
-  `git clone https://github.com/SusmithKrishnan/torghost.git`
+  `git clone https://github.com/Cicadadenis/tor-cicada`
 
   `cd tor-cicada`
 
