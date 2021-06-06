@@ -17,7 +17,7 @@ VERSION = "3.1.1"
 
 IP_API = "https://api.ipify.org/?format=json"
 
-LATEST_RELEASE_API = "https://api.github.com/repos/SusmithKrishnan/torghost/releases/latest"
+LATEST_RELEASE_API = "https://github.com/Cicadadenis/tor-cicada/blob/main/tor-cicada.py"
 
 
 class bcolors:
